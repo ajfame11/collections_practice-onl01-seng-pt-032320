@@ -58,4 +58,5 @@ def add_s(array)
     else
       strings << s
     end
+  end
 end
