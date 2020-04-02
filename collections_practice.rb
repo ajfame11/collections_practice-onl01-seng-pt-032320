@@ -56,5 +56,6 @@ def add_s(array)
     if index == 1
       strings
     else
-      
+      strings << s
+    end
 end
